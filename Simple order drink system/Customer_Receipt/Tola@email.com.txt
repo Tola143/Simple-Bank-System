@@ -1,0 +1,4 @@
+NO:1 Item: 5, Lychee Milk Tea = 19B  Amount: 2 Total: 38B Date: Oct 25 2021 20:45:55
+NO:2 Item: 12, Fresh milk with Brown Sugar Sauce = 24B  Amount: 1 Total: 24B Date: Sep 24 2023 21:53:53
+NO:3 Item: 4, Taro Milk Tea = 24B  Amount: 1 Total: 24B Date: Sep 24 2023 21:53:58
+NO:4 Item: 21, Apple Soda = 19B  Amount: 1 Total: 19B Date: Sep 24 2023 21:54:07

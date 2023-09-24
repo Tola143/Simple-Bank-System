@@ -1,0 +1,3 @@
+NO:1 Item: 1, Taiwan Milk Tea = 19B  Amount: 1 Total: 19B Date: Nov 02 2021 15:15:02
+NO:2 Item: 16, Fresh milk  with Brown Sugar Pearl = 34B  Amount: 1 Total: 34B Date: Nov 02 2021 15:15:13
+NO:3 Item: 13, Fresh milk = 24B  Amount: 10 Total: 240B Date: Nov 02 2021 15:15:20

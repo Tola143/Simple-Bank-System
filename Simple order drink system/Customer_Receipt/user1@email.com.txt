@@ -1,0 +1,4 @@
+NO:1 Item: 1, Taiwan Milk Tea = 19B  Amount: 1 Total: 19B Date: Sep 24 2023 22:03:37
+NO:2 Item: 1, Taiwan Milk Tea = 19B  Amount: 1 Total: 19B Date: Sep 24 2023 22:03:40
+NO:2 Item: 5, Lychee Milk Tea = 19B  Amount: 1 Total: 19B Date: Sep 24 2023 22:03:40
+NO:4 Item: 9, Caramel Milk Tea = 19B  Amount: 1 Total: 19B Date: Sep 24 2023 22:03:48
